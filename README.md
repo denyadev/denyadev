@@ -9,9 +9,13 @@ https://www.linkedin.com/in/denis-kosogov/
 Tech Stack
 
 Frontend	  :	HTML, CSS, JavaScript, TypeScript, React, Next.js, TailwindCSS, Bootstrap
+
 Backend	    :	Node.js, Express, Python, Django, Next.js, REST APIs
+
 Database	  :	MongoDB, PostgreSQL, MySQL, Firebase
+
 Tools	      :	NPM, yarn, Git, GitHub, Postman, MS Office, Adobe Suite, Chrome DevTools
+
 Deployment	:	Vercel, Heroku, Netlify, AWS
 
 <!---
