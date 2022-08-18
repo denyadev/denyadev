@@ -3,9 +3,11 @@
 - 📫 You can reach me at denis.kosogov@gmail.com
 
 Connect with me:
+
 https://www.linkedin.com/in/denis-kosogov/
 
 Tech Stack
+
 Frontend	  :	HTML, CSS, JavaScript, TypeScript, React, Next.js, TailwindCSS, Bootstrap
 Backend	    :	Node.js, Express, Python, Django, Next.js, REST APIs
 Database	  :	MongoDB, PostgreSQL, MySQL, Firebase
