@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @denyadev
-- 👀 I’m interested in developing responsive, performant, and beautiful websites
+- 👀 I’m interested in developing beautiful, responsive, and performant websites
 - 📫 You can reach me at denis.kosogov@gmail.com
 
 Connect with me:
