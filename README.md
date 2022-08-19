@@ -10,7 +10,7 @@ Tech Stack
 
 Frontend	  :	HTML, CSS, JavaScript, TypeScript, React, Next.js, TailwindCSS, Bootstrap
 
-Backend	    :	Node.js, Express, Python, Django, Next.js, REST APIs
+Backend	    :	Node.js, Python, Django, Next.js, REST APIs
 
 Database	  :	MongoDB, PostgreSQL, MySQL, Firebase
 
