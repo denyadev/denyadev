@@ -12,7 +12,7 @@ Full Stack Developer with a passion for learning new technologies and working wi
 
 https://www.linkedin.com/in/denis-kosogov/
 
-## Tech Stack
+## Tech Stack:
 
 Frontend	  :	HTML, CSS, JavaScript, TypeScript, React, Next.js, TailwindCSS, Bootstrap
 
