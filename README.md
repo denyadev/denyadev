@@ -6,7 +6,7 @@
 
 ## About Me:
 
-Full Stack Developer with a passion for learning new technologies and working with teams to create user-friendly, responsive, and performant web applications. Over two years of experience designing, developing, and implementing applications and solutions using a range of front-end and back-end technologies. Eager to develop skills in a fast-paced environment and contribute to the success of a company.
+Full Stack Developer with a passion for learning new technologies and working with teams to create user-friendly, responsive, and performant web applications. Over two years of experience designing, developing and implementing applications and solutions using a range of front-end and back-end technologies. Eager to develop skills in a fast-paced environment and contribute to the success of a company.
 
 ## Connect with me:
 
