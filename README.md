@@ -14,7 +14,7 @@ Backend	    :	Node.js, Python, Django, Next.js, REST APIs
 
 Database	  :	MongoDB, PostgreSQL, MySQL, Firebase
 
-Tools	      :	NPM, yarn, Git, GitHub, Postman, MS Office, Adobe Suite, Chrome DevTools
+Tools	      :	Git, GitHub, Redux, Postman, MS Office, Adobe Suite, Chrome DevTools
 
 Deployment	:	Vercel, Heroku, Netlify, AWS
 
