@@ -2,15 +2,15 @@
 - 👀 I’m interested in developing beautiful, responsive, and performant websites
 - 📫 You can reach me at denis.kosogov@gmail.com
 
-##About Me:
+## About Me:
 
 Full Stack Developer with a passion for learning new technologies and working with teams to create user-friendly, responsive, and performant web applications. Over two years of experience designing, developing, and implementing applications and solutions using a range of front-end and back-end technologies. Eager to develop skills in a fast-paced environment and contribute to the success of a company.
 
-##Connect with me:
+## Connect with me:
 
 https://www.linkedin.com/in/denis-kosogov/
 
-##Tech Stack
+## Tech Stack
 
 Frontend	  :	HTML, CSS, JavaScript, TypeScript, React, Next.js, TailwindCSS, Bootstrap
 
