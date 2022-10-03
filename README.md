@@ -8,21 +8,25 @@
 
 Full Stack Developer with a passion for learning new technologies and working with teams to create user-friendly, responsive, and performant web applications. Over two years of experience designing, developing and implementing applications and solutions using a range of front-end and back-end technologies. Eager to develop skills in a fast-paced environment and contribute to the success of a company.
 
+## Some of my projects:
+
+-
+
+-
+
 ## Connect with me:
 
 https://www.linkedin.com/in/denis-kosogov/
 
 ## Tech Stack:
 
-Frontend	  :	HTML, CSS, JavaScript, TypeScript, React, Next.js, TailwindCSS, Bootstrap
+Frontend	  :	HTML, CSS, JavaScript, React, NextJS, TailwindCSS, Bootstrap
 
-Backend	    :	Node.js, Express, Python, Django, Next.js, REST APIs
+Backend	    :	NodeJS, ExpressJS, Python, Django, MongoDB, PostgreSQL
 
-Database	  :	MongoDB, PostgreSQL, MySQL, Firebase
+Other   	  :	Git, GitHub, Redux, TypeScript, MS Office, Adobe Suite, Chrome DevTools
 
-Tools	      :	Git, GitHub, Redux, Postman, MS Office, Adobe Suite, Chrome DevTools
-
-Deployment	:	Vercel, Heroku, Netlify, AWS
+Deployment  :	Vercel, Heroku, Netlify, AWS EC2, AWS S3 
 
 <!---
 denyadev/denyadev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
