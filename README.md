@@ -6,13 +6,13 @@
 
 ## About Me:
 
-Full Stack Developer with a passion for learning new technologies and working with teams to create user-friendly, responsive, and performant web applications. Over two years of experience designing, developing and implementing applications and solutions using a range of front-end and back-end technologies. Eager to develop skills in a fast-paced environment and contribute to the success of a company.
+Recent graduate with 1 year of experience in web development, including hands-on experience building web applications using React and Django, with a good understanding of back-end technologies. I have a proven ability to design and develop user-friendly web interfaces and implementing modern web development practices. My experience as a programming instructor has also helped me to develop strong problem-solving and communication skills. Fast learner and a team player, excited to bring my skills and knowledge to a new role and to continue to develop my skills in a professional setting.
 
 ## Some of my projects:
 
--
-
--
+- https://github.com/denyadev/medcan
+- https://github.com/denyadev/pcmcpa
+- https://github.com/denyadev/lana
 
 ## Connect with me:
 
@@ -20,13 +20,14 @@ https://www.linkedin.com/in/denis-kosogov/
 
 ## Tech Stack:
 
-Frontend	  :	HTML, CSS, JavaScript, React, NextJS, TailwindCSS, Bootstrap
 
-Backend	    :	NodeJS, ExpressJS, Python, Django, MongoDB, PostgreSQL
+Front-end	  :	React, Next.js, JavaScript, HTML, CSS, Tailwind CSS, Bootstrap, Redux
 
-Other   	  :	Git, GitHub, Redux, TypeScript, MS Office, Adobe Suite, Chrome DevTools
+Back-end	  :	Node.js, Express.js, Python, Django, MongoDB, PostgreSQL, REST
 
-Deployment  :	Vercel, Heroku, Netlify, AWS EC2, AWS S3 
+Tools   	  :	Git, GitHub, REST, TypeScript, MS Office, Adobe Suite, Chrome DevTools
+
+Deployment  :	AWS, Vercel, Heroku, Netlify 
 
 <!---
 denyadev/denyadev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
