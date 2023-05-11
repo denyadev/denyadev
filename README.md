@@ -6,7 +6,7 @@
 
 ## About Me:
 
-Recent graduate with 1 year of experience in web development, including hands-on experience building web applications using React and Django, with a good understanding of back-end technologies. I have a proven ability to design and develop user-friendly web interfaces and implementing modern web development practices. My experience as a programming instructor has also helped me to develop strong problem-solving and communication skills. Fast learner and a team player, excited to bring my skills and knowledge to a new role and to continue to develop my skills in a professional setting.
+Highly motivated software developer with a strong background in computer science and economics. Experienced in developing and maintaining front-end web applications, creating user-friendly interfaces, and building e-commerce websites, landing pages, and portfolios for various clients. Skilled in using a variety of tools and technologies including React, Node.js, Express.js, and Django. A dedicated lifelong learner, committed to staying up-to-date with the latest industry trends and technologies to continuously improve performance optimization and user experience. 
 
 ## Some of my projects:
 
@@ -25,7 +25,7 @@ Front-end	  :	React, Next.js, JavaScript, HTML, CSS, Tailwind CSS, Bootstrap, Re
 
 Back-end	  :	Node.js, Express.js, Python, Django, MongoDB, PostgreSQL, REST
 
-Tools   	  :	Git, GitHub, REST, TypeScript, MS Office, Adobe Suite, Chrome DevTools
+Tools   	  :	Git, GitHub, TypeScript, MS Office, Adobe Suite, Chrome DevTools
 
 Deployment  :	AWS, Vercel, Heroku, Netlify 
 
