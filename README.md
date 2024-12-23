@@ -3,17 +3,26 @@
 Welcome to my GitHub profile! I'm a passionate **Software Engineer** dedicated to building robust, scalable, and elegant solutions to complex problems. With a deep curiosity for technology and a knack for innovation, I aim to create impactful projects that bridge the gap between ideas and reality.
 
 ## 🛠️ Technologies & Tools
+### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
+
+### Frameworks & Libraries
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
 ![Phoenix](https://img.shields.io/badge/Phoenix-E44D26?style=flat-square&logo=phoenix-framework&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-1D2F2F?style=flat-square&logo=websocket&logoColor=white)
+![React Query](https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=react-query&logoColor=white)
+
+### Databases & ORMs
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Drizzle ORM](https://img.shields.io/badge/DrizzleORM-8C4D30?style=flat-square)
-![React Query](https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=react-query&logoColor=white)
+
+### Other Tools
+![WebSockets](https://img.shields.io/badge/WebSockets-1D2F2F?style=flat-square&logo=websocket&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 ## 🌟 About Me
 - 🎓 I graduated with a **double major in Economics and Computer Science**, combining analytical skills with technical expertise.
@@ -23,16 +32,9 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** dedicated t
 - 🤝 I’m open to collaborating on exciting projects and innovative ideas.
 - 🧠 I enjoy solving challenging problems and contributing to open-source projects.
 
-## 📈 GitHub Stats
-![Denis Kosogov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=denyadev&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denyadev&layout=compact&theme=radical)
-
 ## 🌟 Featured Projects
-### [Shopify AI Chatbot and Customer Service Tool](https://github.com/denyadev/ai-chatbot)
-An AI-powered chatbot designed to integrate seamlessly with Shopify stores, automating customer support, order management, and ticket creation.
-
-### [Kodago](https://kodago.ca)
-A versatile platform for managing and organizing conferences, events, and collaborative voting.
+### [Shopify AI Chatbot and Conference Management Tool](https://kodago.ca)
+A versatile platform integrating an AI-powered chatbot with Shopify stores to automate customer support, order management, ticket creation, and conference management features.
 
 ### [DotsVote](https://dotsvote.com)
 A cutting-edge **conference voting platform** enabling real-time participant engagement and feedback collection.
