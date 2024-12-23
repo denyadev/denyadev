@@ -33,10 +33,10 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** dedicated t
 - 🧠 I enjoy solving challenging problems and contributing to open-source projects.
 
 ## 🌟 Featured Projects
-### [Shopify AI Chatbot and Conference Management Tool](https://kodago.ca)
+### [Shopify AI Chatbot](https://kodago.ca)
 A versatile platform integrating an AI-powered chatbot with Shopify stores to automate customer support, order management, ticket creation, and conference management features.
 
-### [DotsVote](https://dotsvote.com)
+### [DOTSVote: Your Voting and Conference Management Tool](https://dotsvote.com)
 A cutting-edge **conference voting platform** enabling real-time participant engagement and feedback collection.
 
 ## 💬 Let's Connect
